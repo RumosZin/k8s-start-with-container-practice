@@ -11,9 +11,9 @@
 
 ✅ 현재 레포지토리의 `sample_code.yml`의 내용을 `nginx-app.yml`에 작성한다.
 
-✅ `nginx-app.yml` 파일을 실행했을 때 결과 화면 1과 같이 나오도록, 파일을 적절히 수정하라.
+✅ `nginx-app.yml` 파일을 실행했을 때 [결과 화면 1](https://github.com/RumosZin/k8s-start-with-container-practice/blob/main/README.md#결과-화면-1)과 같이 나오도록, 파일을 적절히 수정하라.
 
-✅ 결과 화면 1이 적절히 나왔다면, 결과 화면 2와 같이 나오도록 하는 명령어는 무엇일지 작성하라.
+✅ 결과 화면 1이 적절히 나왔다면, [결과 화면 2](https://github.com/RumosZin/k8s-start-with-container-practice/blob/main/README.md#%EA%B2%B0%EA%B3%BC-%ED%99%94%EB%A9%B4-2)와 같이 나오도록 하는 명령어는 무엇일지 작성하라.
 
 ## 결과 화면 1
 
